@@ -1,0 +1,6664 @@
+{
+  "frames": [
+    {
+      "frame": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 64,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 64,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 64,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 64,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 64,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 64,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 64,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 64,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 128,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 128,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 128,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 128,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 128,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 128,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 128,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 128,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 192,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 192,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 192,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 192,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 192,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 192,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 192,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 192,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 256,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 256,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 256,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 256,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 256,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 256,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 256,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 256,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 320,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 320,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 320,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 320,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 320,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 320,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 320,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 320,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 384,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 384,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 384,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 384,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 384,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 384,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 384,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 384,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 448,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 448,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 448,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 448,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 448,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 448,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 448,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 448,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 512,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 512,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 512,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 512,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 512,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 512,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 512,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 512,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 576,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 576,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 576,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 576,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 576,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 576,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 576,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 576,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 640,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 640,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 640,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 640,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 640,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 640,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 640,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 640,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 704,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 704,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 704,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 704,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 704,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 704,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 704,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 704,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 768,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 768,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 768,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 768,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 768,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 23
+    },
+    {
+      "frame": {
+        "y": 768,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 832,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 832,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 832,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 832,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 832,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 23
+    },
+    {
+      "frame": {
+        "y": 832,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 896,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 896,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 896,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 896,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 896,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 23
+    },
+    {
+      "frame": {
+        "y": 896,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 960,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 960,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 960,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 960,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 960,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 23
+    },
+    {
+      "frame": {
+        "y": 960,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1024,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1024,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1024,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1024,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1024,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1024,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1088,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1088,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1088,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1088,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1088,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1088,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1152,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1152,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1152,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1152,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1152,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1152,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1216,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1216,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1216,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1216,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1216,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1216,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 23
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 512
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 8.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1280,
+        "h": 64,
+        "w": 64,
+        "x": 576
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 9.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 23
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 512
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 8.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1344,
+        "h": 64,
+        "w": 64,
+        "x": 576
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 9.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 23
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 512
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 8.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1408,
+        "h": 64,
+        "w": 64,
+        "x": 576
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 9.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 23
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 512
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 8.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 46
+    },
+    {
+      "frame": {
+        "y": 1472,
+        "h": 64,
+        "w": 64,
+        "x": 576
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 9.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 96
+    },
+    {
+      "frame": {
+        "y": 1536,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1536,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1536,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1600,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1600,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1600,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1664,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1664,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1664,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1728,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1728,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1728,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1792,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1792,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1856,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1856,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1920,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1920,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1984,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 1984,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2048,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2048,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2048,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2048,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2048,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2048,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2048,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2048,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2112,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2112,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2112,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2112,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2112,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2112,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2112,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2112,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2176,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2176,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2176,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2176,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2176,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2176,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2176,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2176,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2240,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2240,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2240,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2240,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2240,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2240,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2240,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2240,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2304,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2304,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2304,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2304,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2304,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2304,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2304,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2304,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2368,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2368,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2368,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2368,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2368,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2368,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2368,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2368,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2432,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2432,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2432,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2432,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2432,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2432,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2432,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2432,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2496,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2496,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2496,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2496,
+        "h": 64,
+        "w": 64,
+        "x": 192
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 3.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2496,
+        "h": 64,
+        "w": 64,
+        "x": 256
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 4.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2496,
+        "h": 64,
+        "w": 64,
+        "x": 320
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 5.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2496,
+        "h": 64,
+        "w": 64,
+        "x": 384
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 6.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2496,
+        "h": 64,
+        "w": 64,
+        "x": 448
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 7.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2560,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2560,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2560,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2624,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2624,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2624,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2688,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2688,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2688,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2752,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2752,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2752,
+        "h": 64,
+        "w": 64,
+        "x": 128
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 2.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2816,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2816,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (South) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2880,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2880,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (East) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2944,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 2944,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (North) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 3008,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 0.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    },
+    {
+      "frame": {
+        "y": 3008,
+        "h": 64,
+        "w": 64,
+        "x": 64
+      },
+      "trimmed": false,
+      "filename": "Gumdrop (West) 1.aseprite",
+      "rotated": false,
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "y": 0,
+        "h": 64,
+        "w": 64,
+        "x": 0
+      },
+      "duration": 69
+    }
+  ],
+  "meta": {
+    "frameTags": [
+      {
+        "from": 0,
+        "name": "IdleWest",
+        "direction": "forward",
+        "to": 7
+      },
+      {
+        "from": 8,
+        "name": "IdleNorth",
+        "direction": "forward",
+        "to": 15
+      },
+      {
+        "from": 16,
+        "name": "IdleEast",
+        "direction": "forward",
+        "to": 23
+      },
+      {
+        "from": 24,
+        "name": "IdleSouth",
+        "direction": "forward",
+        "to": 31
+      },
+      {
+        "from": 32,
+        "name": "WalkWest",
+        "direction": "forward",
+        "to": 39
+      },
+      {
+        "from": 40,
+        "name": "WalkNorth",
+        "direction": "forward",
+        "to": 47
+      },
+      {
+        "from": 48,
+        "name": "WalkEast",
+        "direction": "forward",
+        "to": 55
+      },
+      {
+        "from": 56,
+        "name": "WalkSouth",
+        "direction": "forward",
+        "to": 63
+      },
+      {
+        "from": 64,
+        "name": "RunWest",
+        "direction": "forward",
+        "to": 71
+      },
+      {
+        "from": 72,
+        "name": "RunNorth",
+        "direction": "forward",
+        "to": 79
+      },
+      {
+        "from": 80,
+        "name": "RunEast",
+        "direction": "forward",
+        "to": 87
+      },
+      {
+        "from": 88,
+        "name": "RunSouth",
+        "direction": "forward",
+        "to": 95
+      },
+      {
+        "from": 96,
+        "name": "AttackAWest",
+        "direction": "forward",
+        "to": 101
+      },
+      {
+        "from": 102,
+        "name": "AttackANorth",
+        "direction": "forward",
+        "to": 107
+      },
+      {
+        "from": 108,
+        "name": "AttackAEast",
+        "direction": "forward",
+        "to": 113
+      },
+      {
+        "from": 114,
+        "name": "AttackASouth",
+        "direction": "forward",
+        "to": 119
+      },
+      {
+        "from": 120,
+        "name": "AttackBWest",
+        "direction": "forward",
+        "to": 125
+      },
+      {
+        "from": 126,
+        "name": "AttackBNorth",
+        "direction": "forward",
+        "to": 131
+      },
+      {
+        "from": 132,
+        "name": "AttackBEast",
+        "direction": "forward",
+        "to": 137
+      },
+      {
+        "from": 138,
+        "name": "AttackBSouth",
+        "direction": "forward",
+        "to": 143
+      },
+      {
+        "from": 144,
+        "name": "AttackCWest",
+        "direction": "forward",
+        "to": 153
+      },
+      {
+        "from": 154,
+        "name": "AttackCNorth",
+        "direction": "forward",
+        "to": 163
+      },
+      {
+        "from": 164,
+        "name": "AttackCEast",
+        "direction": "forward",
+        "to": 173
+      },
+      {
+        "from": 174,
+        "name": "AttackCSouth",
+        "direction": "forward",
+        "to": 183
+      },
+      {
+        "from": 184,
+        "name": "HurtWest",
+        "direction": "forward",
+        "to": 186
+      },
+      {
+        "from": 187,
+        "name": "HurtNorth",
+        "direction": "forward",
+        "to": 189
+      },
+      {
+        "from": 190,
+        "name": "HurtEast",
+        "direction": "forward",
+        "to": 192
+      },
+      {
+        "from": 193,
+        "name": "HurtSouth",
+        "direction": "forward",
+        "to": 195
+      },
+      {
+        "from": 196,
+        "name": "DrawWest",
+        "direction": "forward",
+        "to": 197
+      },
+      {
+        "from": 198,
+        "name": "DrawNorth",
+        "direction": "forward",
+        "to": 199
+      },
+      {
+        "from": 200,
+        "name": "DrawEast",
+        "direction": "forward",
+        "to": 201
+      },
+      {
+        "from": 202,
+        "name": "DrawSouth",
+        "direction": "forward",
+        "to": 203
+      },
+      {
+        "from": 204,
+        "name": "IdleDrawnWest",
+        "direction": "forward",
+        "to": 211
+      },
+      {
+        "from": 212,
+        "name": "IdleDrawnNorth",
+        "direction": "forward",
+        "to": 219
+      },
+      {
+        "from": 220,
+        "name": "IdleDrawnEast",
+        "direction": "forward",
+        "to": 227
+      },
+      {
+        "from": 228,
+        "name": "IdleDrawnSouth",
+        "direction": "forward",
+        "to": 235
+      },
+      {
+        "from": 236,
+        "name": "WalkDrawnWest",
+        "direction": "forward",
+        "to": 243
+      },
+      {
+        "from": 244,
+        "name": "WalkDrawnNorth",
+        "direction": "forward",
+        "to": 251
+      },
+      {
+        "from": 252,
+        "name": "WalkDrawnEast",
+        "direction": "forward",
+        "to": 259
+      },
+      {
+        "from": 260,
+        "name": "WalkDrawnSouth",
+        "direction": "forward",
+        "to": 267
+      },
+      {
+        "from": 268,
+        "name": "HurtDrawnWest",
+        "direction": "forward",
+        "to": 270
+      },
+      {
+        "from": 271,
+        "name": "HurtDrawnNorth",
+        "direction": "forward",
+        "to": 273
+      },
+      {
+        "from": 274,
+        "name": "HurtDrawnEast",
+        "direction": "forward",
+        "to": 276
+      },
+      {
+        "from": 277,
+        "name": "HurtDrawnSouth",
+        "direction": "forward",
+        "to": 279
+      },
+      {
+        "from": 280,
+        "name": "SheathWest",
+        "direction": "forward",
+        "to": 281
+      },
+      {
+        "from": 282,
+        "name": "SheathNorth",
+        "direction": "forward",
+        "to": 283
+      },
+      {
+        "from": 284,
+        "name": "SheathEast",
+        "direction": "forward",
+        "to": 285
+      },
+      {
+        "from": 286,
+        "name": "SheathSouth",
+        "direction": "forward",
+        "to": 287
+      }
+    ],
+    "version": "1.2.40-x64",
+    "slices": [],
+    "image": "player.PNG",
+    "app": "https://www.aseprite.org/",
+    "scale": "1",
+    "format": "I8",
+    "size": {
+      "w": 640,
+      "h": 3072
+    },
+    "layers": [
+      {
+        "opacity": 255,
+        "name": "South",
+        "blendMode": "normal"
+      },
+      {
+        "opacity": 255,
+        "name": "East",
+        "blendMode": "normal"
+      },
+      {
+        "opacity": 255,
+        "name": "North",
+        "blendMode": "normal"
+      },
+      {
+        "opacity": 255,
+        "name": "West",
+        "blendMode": "normal"
+      }
+    ]
+  }
+}
